@@ -1,0 +1,36 @@
+{
+   "movie1" : {
+      "title" : "Sherlock Holmes",
+      "director" : "Guy Ritchie",
+      "genre" : "Mystery",
+      "IMDB link": "https://www.imdb.com/title/tt0988045/?ref_=fn_al_tt_1",
+   },
+   
+   "movie2" : {
+      "title" : "Sherlock Holmes: A Game of Shadows",
+      "director" : "Guy Ritchie",
+      "genre" : "Mystery",
+      "IMDB link": "https://www.imdb.com/title/tt1515091/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_A%2520Game%2520of",
+   },
+   
+   "movie3" : {
+      "title" : "Iron Man",
+      "director" : "Jon Favreau",
+      "genre" : "Superhero",
+      "IMDB link": "https://www.imdb.com/title/tt0371746/?ref_=fn_al_tt_1",
+   },
+
+   "movie4" : {
+      "title" : "Iron Man 2",
+      "director" : "Jon Favreau",
+      "genre" : "Superhero",
+      "IMDB link": "https://www.imdb.com/title/tt1228705/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Iron%2520Man%25202",
+    },
+
+    "movie5" : {
+      "title" : "Iron Man 3",
+      "director" : "Shane Black",
+      "genre" : "Mystery",
+      "IMDB link": "https://www.imdb.com/title/tt0988045/?ref_=fn_al_tt_1",
+    }
+}
